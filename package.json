@@ -1,0 +1,14 @@
+{
+  "name": "OkeOkeOke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lebrancconvas <lebrancconvas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.0.1",
+    "electron-builder": "^20.38.4"
+  },
+  "scripts": {
+    "start": "electron index.js"
+  }
+}
